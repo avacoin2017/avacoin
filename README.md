@@ -1,9 +1,9 @@
 Coin Properties
 ===========================
-Coin name:AvaCoin
-Coin abbreviation:AVA
-Algorithm:Scrypt PoW/PoS
-AvaCoin is a PoS-based cryptocurrency.
+Coin name:AvaCoin.
+Coin abbreviation:AVA.
+Algorithm:Scrypt PoW/PoS.
+
 
 Development process
 ===========================
