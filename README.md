@@ -1,11 +1,14 @@
 Coin Properties
 ===========================
-Coin name:AvaCoin.
+Coin name:AvaCoin
 
-Coin abbreviation:AVA.
+Coin abbreviation:AVA
 
-Algorithm:Scrypt PoW/PoS.
+Algorithm:Scrypt PoW/PoS
 
+Address letter:A
+
+Total coin supply:140000000 coins
 
 Development process
 ===========================
