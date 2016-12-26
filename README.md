@@ -15,7 +15,21 @@ Block reward:100 coins
 RPC port:9132
 
 P2P por:t9131
-Development process
+
+Advanced Properties
+===========================
+PoS percentage:100% per year
+
+Last PoW block:block 55000
+
+Coinbase maturity:24 blocks
+
+Target spacing:64 seconds
+
+Target timespan:1 block
+
+Transaction confirmations:6 blocks
+
 ===========================
 
 Developers work in their own trees, then submit pull requests when
