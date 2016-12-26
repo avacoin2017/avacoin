@@ -1,7 +1,9 @@
 Coin Properties
 ===========================
 Coin name:AvaCoin.
+
 Coin abbreviation:AVA.
+
 Algorithm:Scrypt PoW/PoS.
 
 
