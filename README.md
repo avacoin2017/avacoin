@@ -1,5 +1,6 @@
-
-AvaCoin development tree
+Coin Properties
+===========================
+Coin name:AvaCoin
 
 AvaCoin is a PoS-based cryptocurrency.
 
