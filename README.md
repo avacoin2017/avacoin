@@ -10,6 +10,11 @@ Address letter:A
 
 Total coin supply:140000000 coins
 
+Block reward:100 coins
+
+RPC port:9132
+
+P2P por:t9131
 Development process
 ===========================
 
